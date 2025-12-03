@@ -104,6 +104,9 @@ python aws_monitor.py
 **Subhadip Bag**
 📫[subhadipbag906@gmail.com]
 
+**Suman Samanta**
+📫[sumansamanta1746@gmail.com]
+
 ---
 
 ## 📝 License
